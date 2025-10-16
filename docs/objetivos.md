@@ -1,0 +1,3 @@
+- Objetivo 1: practicar trabajo colaborativo en GitHub
+- Objetivo 2: aprender a crear ramas y resolver conflictos
+- Objetivo 3: comprender el flujo de Pull Requests
