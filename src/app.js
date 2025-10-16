@@ -2,3 +2,4 @@
 export function hola(nombre="mundo"){
 	return `Hola, $(nombre)!`;
 }
+export const broken = ;
