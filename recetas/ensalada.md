@@ -1,1 +1,3 @@
-- Ensalada básica: lechuga
+
+- Ensalada básica: lechuga y tomate
+
